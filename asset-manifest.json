@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learning/static/css/main.74185ae4.css",
+    "main.js": "/learning/static/js/main.f1827196.js",
+    "static/js/453.5be075eb.chunk.js": "/learning/static/js/453.5be075eb.chunk.js",
+    "static/media/Fashionstoreshopluncher.webp": "/learning/static/media/Fashionstoreshopluncher.15b8072a1218213a0648.webp",
+    "static/media/Cosmeticshopluncher.webp": "/learning/static/media/Cosmeticshopluncher.145af272f679c6bd5ba6.webp",
+    "static/media/FragenceShopluncher.webp": "/learning/static/media/FragenceShopluncher.3a0694e919c2b0f8c9b0.webp",
+    "static/media/Fitnessshopluncher.webp": "/learning/static/media/Fitnessshopluncher.28d94bdd3defc86caf7d.webp",
+    "static/media/electrostoreshopluncher.webp": "/learning/static/media/electrostoreshopluncher.a9ffe082eb1f287da720.webp",
+    "static/media/CarPartShopluncher.webp": "/learning/static/media/CarPartShopluncher.5958dd034bc6ae27d2c2.webp",
+    "static/media/IMG_1763.jpg": "/learning/static/media/IMG_1763.718b6b7df5aa3a79eb6d.jpg",
+    "static/media/IMG_1764.jpg": "/learning/static/media/IMG_1764.75de053699d369a4d2f1.jpg",
+    "index.html": "/learning/index.html",
+    "static/media/textarriere.svg": "/learning/static/media/textarriere.c9aae4dcd7af8267d4231831e4c3b312.svg",
+    "main.74185ae4.css.map": "/learning/static/css/main.74185ae4.css.map",
+    "main.f1827196.js.map": "/learning/static/js/main.f1827196.js.map",
+    "453.5be075eb.chunk.js.map": "/learning/static/js/453.5be075eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74185ae4.css",
+    "static/js/main.f1827196.js"
+  ]
+}
